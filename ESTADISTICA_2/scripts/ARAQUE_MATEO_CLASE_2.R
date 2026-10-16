@@ -229,3 +229,4 @@ vuelos |>
 # Pregunta: si la media de retrasos es mucho mayor que la mediana, ¿qué le
 # dice eso sobre la distribución? → que es asimétrica a la derecha: la
 # mayoría de vuelos llega a tiempo y unos pocos llegan muy tarde.
+
